@@ -13,6 +13,11 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+ * @author jinchao (orignal van)
+ * 文件断点续传程序
+ */
+
 @Controller
 public class Uploader {
 	
